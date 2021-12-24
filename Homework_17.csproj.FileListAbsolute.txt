@@ -1,0 +1,7 @@
+C:\Users\marve\YandexDisk\Autodesk_ITMO_2021\1-CSharp\Homework_17\Homework_17\Homework_17\bin\Debug\Homework_17.exe.config
+C:\Users\marve\YandexDisk\Autodesk_ITMO_2021\1-CSharp\Homework_17\Homework_17\Homework_17\bin\Debug\Homework_17.exe
+C:\Users\marve\YandexDisk\Autodesk_ITMO_2021\1-CSharp\Homework_17\Homework_17\Homework_17\bin\Debug\Homework_17.pdb
+C:\Users\marve\YandexDisk\Autodesk_ITMO_2021\1-CSharp\Homework_17\Homework_17\Homework_17\obj\Debug\Homework_17.csproj.AssemblyReference.cache
+C:\Users\marve\YandexDisk\Autodesk_ITMO_2021\1-CSharp\Homework_17\Homework_17\Homework_17\obj\Debug\Homework_17.csproj.CoreCompileInputs.cache
+C:\Users\marve\YandexDisk\Autodesk_ITMO_2021\1-CSharp\Homework_17\Homework_17\Homework_17\obj\Debug\Homework_17.exe
+C:\Users\marve\YandexDisk\Autodesk_ITMO_2021\1-CSharp\Homework_17\Homework_17\Homework_17\obj\Debug\Homework_17.pdb
